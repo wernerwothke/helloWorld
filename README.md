@@ -1,9 +1,6 @@
 helloWorld
 ===========
 
-random first and/or last name generator
----------------------------------------
-
 The function **helloWorld** is a sleek and modern hello world function.. 
 
 
