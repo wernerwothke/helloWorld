@@ -1,7 +1,7 @@
 helloWorld
 ===========
 
-The function **helloWorld** is a sleek and modern hello world function.. 
+The function **helloWorld** is a sleek and modern hello world function.
 
 
 Install latest development release from [Github](https://github.com/dbetebenner/helloWorld/) :octocat:
